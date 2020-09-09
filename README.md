@@ -2,7 +2,7 @@ Comprehensive list of all books listed in the [goodreads](https://www.goodreads.
 
 # Data
 
-The original data comes from [this directory at Unicode.org](https://www.kaggle.com/jealousleopard/goodreadsbooks) as a csv file.
+The original data comes from [this directory at kaggle.com](https://www.kaggle.com/jealousleopard/goodreadsbooks) as a csv file.
 
 
 # License
